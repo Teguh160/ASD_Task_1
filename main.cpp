@@ -6,7 +6,7 @@ using namespace std;
 /** WRITE DOWN YOUR INFORMATION HERE */
 string name = "Muhammad Teguh Triyanugraha"; // put your name here
 string ID = "103012500160"; // put your student id here
-int group_id = 9; // your Group Number here (1-8)
+int group_id = 1; // your Group Number here (1-8)
 
 
 /** FUNCTIONS LIST, DO NOT MODIFY THESE */
